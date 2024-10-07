@@ -1,0 +1,721 @@
+20240921	3790	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	3790	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	3790	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	3796	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	3796	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	3796	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	3796	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	3796	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	3796	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	6362	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	6368	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	6744	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	6744	Beats BT Earphone Flex S Grey	MYME2ZM/A	1.0
+20240921	6744	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	6744	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	6744	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	6744	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	6744	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	6744	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	6744	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	1.0
+20240921	6744	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	6744	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	6744	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	7575	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	7575	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	7575	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	7686	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	7686	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	7686	Beats BT Speaker Pill Matte Black	MW443ZM/A	2.0
+20240921	7686	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	7686	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	7686	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8464	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8464	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8464	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8464	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8464	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	2.0
+20240921	8464	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8464	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8464	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8464	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8465	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8633	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8633	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8633	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8633	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8633	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8633	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8633	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8635	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	2.0
+20240921	8636	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8636	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8636	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8636	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8636	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	2.0
+20240921	8636	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	2.0
+20240921	8636	Beats BT Stereo Headphone Solo3 GWT	MNEP2ZM/A	1.0
+20240921	8636	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8636	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8636	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8636	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8636	Beats by EP On-Ear Headphone-Blk	ML992ZM/A	2.0
+20240921	8661	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	8667	Beats BT HP Solo 3 Gold	MT283ZM/A	1.0
+20240921	8667	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8667	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8667	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8667	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8667	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	2.0
+20240921	8667	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8667	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8667	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8667	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8671	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8671	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8671	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8671	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8676	Beats BT Earphone Flex Flame blue	MYMG2ZM/A	1.0
+20240921	8687	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8687	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8687	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8689	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8689	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8689	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8689	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8689	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8689	Beats Pill+ BT Speaker- Black	ML4M2HN/A	1.0
+20240921	8689	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8689	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8689	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8709	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8709	Beats BT HP Solo 3 Gold	MT283ZM/A	3.0
+20240921	8709	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8709	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8709	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8709	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8709	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	8709	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	2.0
+20240921	8709	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	8709	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8717	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8717	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8717	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8717	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8717	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8717	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8722	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8722	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8722	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8722	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8722	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8722	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8722	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8740	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	8740	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	1.0
+20240921	8757	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	8757	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8757	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8757	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8757	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8757	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8757	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8758	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8758	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8758	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8787	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8787	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8787	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8787	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8787	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8787	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8792	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8793	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8798	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8798	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8798	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8798	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8813	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8827	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8829	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8841	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8841	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8841	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8841	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8841	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8843	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8843	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	8843	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8844	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8844	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8844	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8844	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8844	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8844	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8872	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8872	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8872	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8875	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8875	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8875	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8875	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8875	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8875	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	8875	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	8882	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8882	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8882	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8882	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8882	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8882	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8882	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8883	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8884	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8884	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8884	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8884	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8884	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8885	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8885	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8885	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8885	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8885	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8885	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8885	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8886	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	8887	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	8887	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8887	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8887	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8887	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8887	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8887	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8892	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8892	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8892	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8892	Beats TWS Fit Pro Coral Pink	MPLJ3ZM/A	1.0
+20240921	8892	Beats TWS Fit Pro Volt Yellow	MPLK3ZM/A	1.0
+20240921	8892	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8892	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8893	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	8897	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8897	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8897	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8897	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8897	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8897	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8902	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8902	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8902	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8902	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8902	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8902	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8902	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8905	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8905	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8905	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8905	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8905	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	2.0
+20240921	8905	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	1.0
+20240921	8905	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8905	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8905	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8909	Beats TWS ANC Studio Buds + Ivory	MQLJ3ZM/A	5.0
+20240921	8909	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8909	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8909	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8910	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8910	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8910	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8910	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	8910	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	8910	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8910	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8910	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8910	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8910	Beats by EP On-Ear Headphone-Blk	ML992ZM/A	1.0
+20240921	8912	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8912	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8912	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8912	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8912	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	8912	Beats BT Stereo Headphone Solo3 BK	MP582ZM/A	1.0
+20240921	8912	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8912	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8912	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8916	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8917	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8917	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8917	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8917	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8917	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8917	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	2.0
+20240921	8917	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8917	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8917	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8917	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8917	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8919	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8919	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8919	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8919	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8919	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8919	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8919	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8923	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8923	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8923	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8923	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8923	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8923	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8923	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8928	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	8928	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8928	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8928	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8928	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8928	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8933	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8934	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8934	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8934	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8934	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8935	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8935	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8935	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8935	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8935	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8935	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8935	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8935	Beats by EP On-Ear Headphone-Blk	ML992ZM/A	1.0
+20240921	8941	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8941	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8941	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8941	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8941	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8941	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8941	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8945	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8945	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	2.0
+20240921	8945	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8945	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8945	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8945	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8945	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	8945	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8945	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8945	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8946	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8946	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8946	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8947	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8947	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8947	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8950	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8950	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8950	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8950	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8951	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8951	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8951	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8951	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8951	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8951	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8951	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8951	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8952	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8952	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	8952	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	8952	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8952	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8955	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	8955	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8955	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8955	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8955	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8955	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8955	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8955	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8956	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8956	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8956	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8956	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8956	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8956	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8957	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8957	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8957	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8957	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	8957	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8957	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8957	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8959	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8959	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8959	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8959	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	8959	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8959	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8959	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8963	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8963	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8963	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8963	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8963	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8963	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8964	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8964	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8964	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8964	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8964	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8964	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	1.0
+20240921	8964	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8964	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8967	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	8967	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8971	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	8971	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	8972	Beats BT HP Solo 3 Gold	MT283ZM/A	2.0
+20240921	8972	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8972	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8972	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8972	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8972	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8972	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	8972	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	8974	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	8974	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	2.0
+20240921	8982	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	8982	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	8982	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	8982	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	8982	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	8982	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	8982	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	8982	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	9131	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	9136	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	9136	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	9136	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	9136	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	9136	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	9136	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	9143	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	9143	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	9143	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	9143	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	9154	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	9154	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	9154	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	9154	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	9154	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	9154	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	9154	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	9595	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	9595	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	9595	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	9609	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	9609	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	9609	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	9609	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	9609	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	R396	Beats BT HP Solo 3 Gold	MT283ZM/A	6.0
+20240921	R396	Beats BT HP Solo 4 Cloud Pink	MUW33ZM/A	1.0
+20240921	R396	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	R396	Beats BT Speaker Pill Champagne Gold	MW463ZM/A	2.0
+20240921	R396	Beats TWS Fit Pro Coral Pink	MPLJ3ZM/A	4.0
+20240921	R396	Beats TWS Fit Pro Volt Yellow	MPLK3ZM/A	3.0
+20240921	R396	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	2.0
+20240921	R396	Beats TWS Solo Buds Festive Burnt Orange	MC7H4ZM/A	50.0
+20240921	R696	Beats BT HP Solo 4 Cloud Pink	MUW33ZM/A	2.0
+20240921	R696	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	2.0
+20240921	R696	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	8.0
+20240921	R696	Beats BT Speaker Pill Champagne Gold	MW463ZM/A	1.0
+20240921	R696	Beats BT Speaker Pill Matte Black	MW443ZM/A	3.0
+20240921	R696	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	4.0
+20240921	R696	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	R696	Beats BT Stereo Headphone EP BL	ML9D2ZM/A	1.0
+20240921	R696	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	2.0
+20240921	R696	Beats TWS Solo Buds Festive Burnt Orange	MC7H4ZM/A	80.0
+20240921	R696	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	4.0
+20240921	R696	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	SE40	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	SE40	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	3.0
+20240921	SE40	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	3.0
+20240921	SE40	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	1.0
+20240921	SE40	Beats TWS Solo Buds Festive Burnt Orange	MC7H4ZM/A	10.0
+20240921	SE40	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	4.0
+20240921	SE40	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	4.0
+20240921	SE40	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	SJ93	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	3.0
+20240921	SJ93	Beats BT HP Solo 3 Gold	MT283ZM/A	7.0
+20240921	SJ93	Beats BT HP Solo 4 Cloud Pink	MUW33ZM/A	1.0
+20240921	SJ93	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	3.0
+20240921	SJ93	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	3.0
+20240921	SJ93	Beats BT Speaker Pill Champagne Gold	MW463ZM/A	2.0
+20240921	SJ93	Beats BT Speaker Pill Matte Black	MW443ZM/A	5.0
+20240921	SJ93	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	3.0
+20240921	SJ93	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	SJ93	Beats Pill+ BT Speaker- Black	ML4M2HN/A	1.0
+20240921	SJ93	Beats TWS Fit Pro Tidal Blue	MPLL3ZM/A	3.0
+20240921	SJ93	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	2.0
+20240921	SJ93	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	6.0
+20240921	SJ93	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	SJ93	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	SJ99	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	3.0
+20240921	SJ99	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	3.0
+20240921	SJ99	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	SJ99	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	SJ99	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	1.0
+20240921	SJ99	Beats TWS Solo Buds Festive Burnt Orange	MC7H4ZM/A	10.0
+20240921	SJ99	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	2.0
+20240921	SJ99	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	4.0
+20240921	SJ99	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	4.0
+20240921	SLKO	Beats BT HP Solo 3 Gold	MT283ZM/A	3.0
+20240921	SLKO	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	SLKO	Beats TWS Solo Buds Arctic Purple	MUVX3ZM/A	2.0
+20240921	SLKO	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	5.0
+20240921	SLKO	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	5.0
+20240921	SLKO	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	7.0
+20240921	SLOR	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	T051	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	T051	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	T0UM	Beats BT Stereo Earphone Powerbeats3 BK	ML8V2ZM/A	1.0
+20240921	T1KQ	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	T1KQ	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	T1KQ	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	T1KQ	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	T1KQ	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	T1KQ	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	T24N	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	T24N	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	T24N	Beats TWS Fit Pro Stone Purple	MK2H3ZM/A	1.0
+20240921	T619	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	T619	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	T619	Beats BT Speaker Pill Matte Black	MW443ZM/A	2.0
+20240921	T619	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	T619	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	T9OE	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	T9OE	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	T9OE	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TA91	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TA9U	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TA9U	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TA9U	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TA9U	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TA9U	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TA9U	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TA9U	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TAE4	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TAIV	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TAIV	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TAIV	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TAIV	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TAZ4	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TAZ4	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TAZ4	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TAZ4	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TAZ4	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TAZ4	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TAZ4	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TB83	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TB83	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TB83	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TB83	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TB83	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TB83	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TB83	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TB85	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TB85	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TB86	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TB86	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TB88	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TB88	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TB88	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TB88	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TB88	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TB88	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TB88	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TC78	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TC78	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TC78	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TC78	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TC78	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	2.0
+20240921	TC78	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TC78	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TCO1	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TCR7	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	TCW6	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	TCW6	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TCW6	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TCW6	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TCW6	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TCW6	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TCW6	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TDC5	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	TDI7	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TDI7	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TDI7	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TDI7	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TDI9	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TDQ0	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TE58	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TE58	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TE58	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TE58	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TE58	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TEG6	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TEG7	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TEH3	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	TEH3	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TEH3	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	TEZ7	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TFB7	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TFJ6	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TFJ6	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TFJ6	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TG1N	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TG1N	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TG1N	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TG1N	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TG1N	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TG1N	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TI73	Beats BT Stereo Earphone Powerbeats3 RD	MNLY2ZM/A	1.0
+20240921	TIY8	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	TJI9	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TJV8	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TJV8	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	1.0
+20240921	TJW9	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TJW9	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TJW9	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TJW9	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TJW9	Beats TWS Fit Pro Tidal Blue	MPLL3ZM/A	1.0
+20240921	TJW9	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TJW9	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TJW9	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TK86	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TK86	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TK86	Beats BT Speaker Pill Matte Black	MW443ZM/A	2.0
+20240921	TK86	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TK86	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TK86	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	TKQ7	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TKR1	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	2.0
+20240921	TKR1	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	TKR1	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	2.0
+20240921	TKR8	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TKR8	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TKR8	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TKR8	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TKR8	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TLL4	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TLL4	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	TLL4	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	TLY1	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TLY1	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TLY1	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TLY1	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TML2	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TML2	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TML2	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TML2	Beats BT Speaker Pill Matte Black	MW443ZM/A	2.0
+20240921	TML2	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TML2	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TML2	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TN22	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	TN64	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TN64	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TN64	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TN64	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TN64	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TN64	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TNE6	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TNE6	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	TNE6	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	2.0
+20240921	TNP0	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TNP0	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TNP0	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TOD3	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TOD3	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TOD3	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TOD3	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TOD3	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TOD3	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TOQ2	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	TP32	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TP32	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TP32	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TP32	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TP32	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TP32	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TP32	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TP73	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TP73	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TP73	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TP73	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TQA7	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TQB3	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	1.0
+20240921	TQB3	Beats TWS Fit Pro Stone Purple	MK2H3ZM/A	1.0
+20240921	TSD4	Beats BT Earphone Flex Black	MYMC2ZM/A	1.0
+20240921	TSD9	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TSD9	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TSD9	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TSD9	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TSD9	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TSD9	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TSD9	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TTZ9	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TTZ9	Beats TWS Fit Pro Stone Purple	MK2H3ZM/A	1.0
+20240921	TVK3	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TVK5	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	2.0
+20240921	TVK5	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TVK5	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	3.0
+20240921	TVK5	Beats TWS Fit Pro Stone Purple	MK2H3ZM/A	1.0
+20240921	TVK8	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TVK8	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TVK8	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TW3W	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	3.0
+20240921	TWXI	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	TX08	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TX08	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TX33	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TX33	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TX33	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TX34	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TX34	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TX34	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TX34	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TX34	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	2.0
+20240921	TX34	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TX34	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TXFV	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TXFV	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TXFV	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TXFV	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TXFV	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TXFV	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TXFV	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TXFW	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TXFW	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TXFW	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TXFW	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TXFW	Beats TWS Fit Pro Stone Purple	MK2H3ZM/A	1.0
+20240921	TXFW	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	2.0
+20240921	TXFW	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	2.0
+20240921	TXFW	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TXXH	BEATS True Wireless Studio Buds WH NC WT	MJ4Y3ZM/A	2.0
+20240921	TXXH	Beats BT HP Solo 4 Matte Black	MUW23ZM/A	1.0
+20240921	TXXH	Beats BT HP Solo 4 Slate Blue	MUW43ZM/A	1.0
+20240921	TXXH	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
+20240921	TXXH	Beats BT Speaker Pill Statement Red	MWQW3ZM/A	1.0
+20240921	TXXH	Beats TWS ANC Studio Buds + Black/Gold	MQLH3ZM/A	1.0
+20240921	TXXH	Beats TWS Fit Pro Beats Blk	MK2F3ZM/A	1.0
+20240921	TXXH	Beats TWS Fit Pro Beats Wht	MK2G3ZM/A	1.0
+20240921	TXXH	Beats TWS Fit Pro Sage Grey	MK2J3ZM/A	2.0
+20240921	TXXH	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TXXH	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TXXH	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TZ8F	Beats TWS Solo Buds Matte Black	MUVW3ZM/A	1.0
+20240921	TZ8F	Beats TWS Solo Buds Storm Grey	MUVY3ZM/A	1.0
+20240921	TZ8F	Beats TWS Solo Buds Transparent Red	MUW03ZM/A	1.0
+20240921	TZZT	BEATS True Wireless Studio Buds WH NC BK	MJ4X3ZM/A	1.0
+20240921	V014	Beats BT Speaker Pill Matte Black	MW443ZM/A	1.0
